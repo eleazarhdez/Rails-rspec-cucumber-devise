@@ -1,0 +1,7 @@
+Para arrancar ejecutar: rails server
+
+Previamente debemos hacer una carga desde base de datos: bundle exec rake db:reset
+
+En el fichero db/seeds.rb están los registros que queremos incluir en la base de datos.
+
+Bye!
